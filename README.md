@@ -122,10 +122,10 @@ stats:
 
 | Period | Role | Organization |
 |--------|------|-------------|
-| 2024-Present | **Founder & Lead Developer** | [CocoTech Studio](https://cocotech.studio) |
-| 2024 | **Data Engineer Intern** | Bank Indonesia |
-| 2023 | **Blockchain Developer** | Polkadot Blockchain Academy - Wave 3 |
-| 2023 | **Cloud Computing Track** | Bangkit Academy by Google |
+| 2025-2026 | **Founder & Lead Developer** | [CocoTech Studio](https://cocotech.studio) |
+| 2025-2026 | **Data Engineer Intern** | Bank Indonesia |
+| 2025 | **Blockchain Developer** | Polkadot Blockchain Academy - Wave 3 |
+| 2024 | **Cloud Computing Track** | Bangkit Academy by Google |
 | 2023 | **Data Science Track** | Indosat Digital Camp |
 | 2022-Present | **S1 Ilmu Komputer** | IPB University |
 
